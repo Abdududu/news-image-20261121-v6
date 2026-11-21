@@ -1,0 +1,1 @@
+{"dependencies":{"playwright-core":"1.49"},"description":"The world in one day: Saturday 21 November 2026, drawn as an illustrated digest.","license":"MIT","main":"main.ts","name":"makefun-news-image-20261121-v6","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
