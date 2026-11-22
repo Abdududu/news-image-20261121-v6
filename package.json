@@ -1,1 +1,1 @@
-{"dependencies":{"playwright-core":"^1.49.1"},"description":"The World in One Day — Saturday 21 November 2026. An illustrated digest of the day's world news in one image.","license":"MIT","name":"makefun-news-image-20261121-v6","type":"module","version":"1.0.0"}
+{"description":"The World in One Day — Saturday 21 November 2026. An illustrated digest of the day's world news in one image.","devDependencies":{"playwright-core":"^1.49.1"},"license":"MIT","name":"makefun-news-image-20261121-v6","type":"module","version":"1.0.0"}
